@@ -1,0 +1,13 @@
+repita N vezes:
+
+abre garra
+mover eixo 1 em 120
+mover eixo 2 em 35
+mover eixo 3 em 80
+
+fecha garra
+mover eixo 3 em 130
+mover eixo 2 em 80
+mover eixo 1 em 0
+
+fim repita
